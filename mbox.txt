@@ -1,0 +1,60 @@
+From: sender1@example.com
+To: recipient1@example.com
+Subject: Hello
+
+Hello, this is a sample email.
+
+From: johndoe@gmail.com
+To: janedoe@yahoo.com
+Subject: Greetings
+
+Greetings from John!
+
+Best,
+John
+
+From: johndoe@gmail.com
+To: janedoe@yahoo.com
+Subject: Meeting
+
+Hi Jane,
+
+I hope this email finds you well. I wanted to follow up with you regarding our meeting next week. Are you still available on Wednesday at 2pm? Let me know if this works for you.
+
+Best,
+John
+
+From: sarahlee@hotmail.com
+To: robertchan@gmail.com
+Subject: Dinner
+
+Hi Robert,
+
+It's been a while since we caught up. How about we grab dinner this Friday at 7pm? There's a new restaurant I've been wanting to try out.
+
+Let me know if that works for you.
+
+Best,
+Sarah
+
+From: nathanjones@yahoo.com
+To: amandawilliams@hotmail.com
+Subject: Re: Project Update
+
+Hi Amanda,
+
+Thanks for your email. I just wanted to touch base regarding the project timeline. Do you think we'll be able to meet the deadline for next week? Let me know if there's anything I can do to help.
+
+Best,
+Nathan
+
+From: sarahlee@hotmail.com
+To: robertchan@gmail.com
+Subject: Invitation
+
+Hi Robert,
+
+I hope you're doing well. I wanted to extend an invitation to you for my upcoming birthday party. It's going to be on Saturday, May 7th at 8pm. Let me know if you can make it!
+
+Best,
+Sarah
