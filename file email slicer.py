@@ -16,8 +16,8 @@ email_pattern = r"[a-zA-Z0-9.+_-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
 # variable to track whether any emails were found in the file
 found = False
 
-# list to store unique email addresses
-email_list = list()
+# set to store unique email addresses
+email_set = set()
 
 # checking for emails in file
 for line in filehandle:
@@ -26,10 +26,10 @@ for line in filehandle:
     if match:
         found = True
         email = match.group()
-        # check if the email is already in the email list, if it is, the email doesn't print
-        if email not in email_list:
-            # add email to the list
-            email_list.append(email)
+        # check if the email is already in the email set, so duplicates aren't printed
+        if email not in email_set:
+            # add email to the set
+            email_set.add(email)
             (username, domain) = email.split('@')
             (domain, extension) = domain.split(".", 1)
 
