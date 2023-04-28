@@ -1,4 +1,4 @@
 # email-slicer
-A mini Python project that accepts an email from the user, and returns the username, domain and extension of the email.
+A mini Python project extracts emails from a file, and prints them along with the username and domain of each email.
 
-This program can be easily be modified to read from a file, extract all emails and then perform slicing as well.
+I have provided a sample file to test the code, 'mbox.txt'. 
